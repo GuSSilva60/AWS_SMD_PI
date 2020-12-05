@@ -1,0 +1,9 @@
+com/mycompany/entidade/Usuario.class
+com/mycompany/entidade/Cliente.class
+com/mycompany/entidade/Carro.class
+com/mycompany/servlet/ListarCliente.class
+com/mycompany/entidade/Funcionario.class
+com/mycompany/dao/ClienteDAO.class
+com/mycompany/bd/ConexaoBD.class
+com/mycompany/entidade/Aluguel.class
+com/mycompany/entidade/Loja.class
